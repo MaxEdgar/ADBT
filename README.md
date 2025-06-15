@@ -1,3 +1,4 @@
+![Screenshot](screenshot.png)
 # Android Reboot & Flash Tool (adb.py)
 
 ## Description
